@@ -1,0 +1,57 @@
+body
+		{
+			background:url(bg2.jpg)  center;
+			color: white;
+			font-family: vivaldi;
+			background-size: cover;
+
+		}
+
+		::-webkit-input-placeholder 
+		{
+			text-align: center;
+			font-size: 20px;
+			font-family: vivaldi;
+			font-weight: bold;
+		}
+		div
+		{
+			border: 2px solid black;
+			width: 50em;
+			margin-right: auto;
+			margin-left: auto;
+		}
+		#but1:hover
+		{
+			background: #141924;
+			color: #3C4659;
+		}
+		#but1
+		{
+			border: 2px transparent;
+			background: #141924;
+			color: white;
+		}
+		img
+		{
+			width: 100px;
+			height:100px;
+		}
+		image{
+			padding:500px;
+		}
+		form
+		{
+			width: 40em;
+			//border: 2px solid black;
+			margin-left: auto;
+			margin-right: auto;
+			text-align: justify;
+			margin-top: 200px;
+		}
+		input
+		{
+			padding: 10px;
+			font-size: 18px;
+			border-radius: 20px;
+		}
