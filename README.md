@@ -16,11 +16,11 @@
           if not the click on the up arrow icon there the icon will be visible.
         4.If the wamp icon is in Green color then you are ready to go else troubleshoot the problems from internet
           (i am not sure of the errors you might get but for all the errors just googling it gives the solution).
-        5.Now download the project from the github by clicking the green button named clone after that you can see the
-          option as download as zip click on that option.Then extract the folder to www folder in c:/wam64/www.
+        5.Now download the project from the github by clicking the green button named clone after that you can 
+          see the option as download as zip click on that option.Then extract the folder to www folder in c:/wam64/www.
         6.Now right click on the wamp icon and select the phpmyadmin.If first time login then  username is root 
           and no password should do just fine.
-          ```
-        7.After logging in click on import and select the compileher.sql file
-        ```
-        6.Open up chrome and type local host in address bar.You will be directed to wamp page.
+        7.After logging in click on import and select the compileher.sql file.
+        8.Open up chrome and type local host in address bar.You will be directed to wamp page.
+        9.Select the project and select the the slot.
+        10.There you have it a full quiz web application.
