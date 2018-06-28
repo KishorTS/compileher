@@ -6,10 +6,10 @@
       database ultimately failing the attempt of the user who tries to cheat. This also contains a set only for 
       the final quiz and the final quiz has only single set.
       
- ## Prerequisites
+## Prerequisites
         Wamp software
         
- ### Installing
+### Installing
         1.You will need wamp in order to run this as this is a full web app with frontend and backend.
         2.After Installing Wamp Start Wamp by Double clicking the icon on Desktop or in the start menu.
         3.In the System try (ie) Bottom right corner of your screen you can see the wamp icon with a W symbol 
@@ -25,3 +25,10 @@
         8.Open up chrome and type local host in address bar.You will be directed to wamp page.
         9.Select the project and select the the slot.
         10.There you have it a full quiz web application.
+
+## Built With  
+        Wamp
+        Chrome
+        
+## Author
+        Kishor Kumar.T.S.
